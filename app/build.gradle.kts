@@ -9,11 +9,11 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.c3r5b8.telegram_monet"
-        minSdk = 31
+        applicationId = "github..fuydg.TeleMonet"
+        minSdk = 28
         targetSdk = 35
-        versionCode = 25010701
-        versionName = "11.5.3"
+        versionCode = 25010702
+        versionName = "11.5.4"
 
         resourceConfigurations.addAll(
             arrayOf(
