@@ -9,7 +9,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "github..fuydg.TeleMonet"
+        applicationId = "github.fuydg.TeleMonet"
         minSdk = 28
         targetSdk = 35
         versionCode = 25010702
