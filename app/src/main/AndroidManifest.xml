@@ -22,7 +22,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.c3r5b8.telegram_monet.provider"
+            android:authorities="github.fuydg.TeleMonet.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
